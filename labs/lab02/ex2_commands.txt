@@ -1,0 +1,14 @@
+# You should be editing this file for the Intro to GDB exercise of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+$ command:
+# start -start     start and stop in the first line of main
+# step -s          execute the current line by steps
+# next -n          execute the current line but not by steps, but step over
+# finish -fin      execute the remainder of the current function 
+# print [arg] -p   print the value of arguments
+# quit -q          quit           
+
+
